@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481791534172",
+    "project_id": "tontine-31588",
+    "storage_bucket": "tontine-31588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481791534172:android:5261ac0b711346ac86f299",
+        "android_client_info": {
+          "package_name": "com.se3b.tontine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmVDT5HxgW6fT_64X0CVay2bQ9NifPbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481791534172:android:91c000d3b8e454c686f299",
+        "android_client_info": {
+          "package_name": "com.se3btontine.tontine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmVDT5HxgW6fT_64X0CVay2bQ9NifPbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
